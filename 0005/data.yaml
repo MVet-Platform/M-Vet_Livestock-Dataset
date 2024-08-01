@@ -1,0 +1,10 @@
+names:
+- cow
+- goat
+- pig
+- sheep
+- rabbit
+nc: 5
+test: ./test/images
+train: ./train/images
+val: ./valid/images
