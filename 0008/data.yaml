@@ -1,0 +1,13 @@
+names:
+- cow
+- goat
+- pig
+- sheep
+- rabbit
+- turkey
+- hen
+- duck
+nc: 8
+test: ./test/images
+train: ./train/images
+val: ./valid/images
